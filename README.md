@@ -1,16 +1,25 @@
-## Hi there 👋
+# Добро пожаловать в мой GitHub! 👋
 
-<!--
-**alexglukhovv/alexglukhovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Здесь я публикую проекты, делюсь исследованиями и практическими решениями в области аналитики, а также показываю свой профессиональный путь и развитие.
 
-Here are some ideas to get you started:
+## 👨‍💻 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Меня зовут Александр Глухов.
+
+Мой профессиональный путь начался с финансовой аналитики, а затем продолжился в сфере электронной коммерции, где я руководил отделом маркетплейсов и занимался аналитикой продаж, развитием бизнеса и принятием решений на основе данных.
+
+Сегодня я развиваюсь в индустрии аналитики, уделяя особое внимание продуктовой аналитике. Изучаю современные инструменты анализа данных, работаю над практическими проектами и постоянно совершенствую свои профессиональные навыки.
+
+## 🛠️ Основной стек
+
+- Python
+- SQL
+- BI
+- Excel
+- Google Sheets
+- Git
+
+## 📬 Контакты
+
+- Telegram: @alexglukhovv
+- Email: alex.glukhov100@gmail.com
