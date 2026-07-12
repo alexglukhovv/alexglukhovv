@@ -14,7 +14,7 @@
 
 - Python
 - SQL
-- BI
+- BI-инструменты
 - Excel
 - Google Sheets
 - Git
